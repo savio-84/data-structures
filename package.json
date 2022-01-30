@@ -5,7 +5,11 @@
   "repository": "git@github.com:savio-84/data-structures.git",
   "author": "<saviocarvalho01@hotmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
   "dependencies": {
     "typescript": "^4.5.5"
-  }
+  },
+  "types": "./dist"
 }
