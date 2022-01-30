@@ -1,12 +1,12 @@
 {
   "name": "data-structures-savio-araujo",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/savio-84/data-structures.git"
   },
-  "author": " <saviocarvalho01@hotmail.com>",
+  "author": "savio-84 <62775935+savio-84@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
     "build": "tsc"
