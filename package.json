@@ -2,8 +2,11 @@
   "name": "data-structures-savio-araujo",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:savio-84/data-structures.git",
-  "author": "<saviocarvalho01@hotmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/savio-84/data-structures.git"
+  },
+  "author": " <saviocarvalho01@hotmail.com>",
   "license": "MIT",
   "scripts": {
     "build": "tsc"
@@ -11,5 +14,16 @@
   "dependencies": {
     "typescript": "^4.5.5"
   },
-  "types": "./dist"
+  "types": "./dist",
+  "bugs": {
+    "url": "https://github.com/savio-84/data-structures/issues"
+  },
+  "homepage": "https://github.com/savio-84/data-structures#readme",
+  "description": "estruturas de dados",
+  "devDependencies": {},
+  "keywords": [
+    "estruturas",
+    "de",
+    "dados"
+  ]
 }
